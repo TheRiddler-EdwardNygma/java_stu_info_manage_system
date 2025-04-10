@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="512932d4-c0e8-4dcb-a314-b09cd9cd4a38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/controller/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/controller/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/data/Add_rm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/data/Change_info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/data/Info_Stroage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/data/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/service/Add_rm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/service/ChangeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/src/com/stu_info_manage/service/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_info_manage/stu_info_manage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students_mamage_pj.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2vUSQEpcZN4cI0fzijCXRCKJ3oZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="512932d4-c0e8-4dcb-a314-b09cd9cd4a38" name="Changes" comment="" />
+      <created>1744198148311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744198148311</updated>
+      <workItem from="1744198149842" duration="15583000" />
+      <workItem from="1744275269901" duration="11651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
